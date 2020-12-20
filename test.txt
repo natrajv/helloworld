@@ -1,3 +1,5 @@
 This is test file
 
 branch change at 20201220_1848
+
+Testing of changes after relase v1.0.0-a.1
